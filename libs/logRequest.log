@@ -2,3 +2,261 @@
 {"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-02-27T21:04:27.098Z"}
 {"error":{"view":{"name":"index","root":"/home/mue/web/sites/perception/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-02-27T21:04:33.782Z"}
 {"error":{"view":{"name":"index","root":"/home/mue/web/sites/perception/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-02-27T21:04:34.750Z"}
+{"level":"info","message":"Web server listening: 58987","timestamp":"2014-03-06T15:36:45.066Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T15:36:45.097Z"}
+{"level":"info","message":"Web server listening: 58987","timestamp":"2014-03-06T16:29:28.881Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T16:29:28.924Z"}
+{"level":"error","message":"","timestamp":"2014-03-06T16:52:54.441Z"}
+{"level":"error","message":"","timestamp":"2014-03-06T16:53:53.167Z"}
+{"level":"error","message":"","timestamp":"2014-03-06T16:54:25.301Z"}
+{"level":"error","message":"","timestamp":"2014-03-06T16:54:26.927Z"}
+{"level":"error","message":"","timestamp":"2014-03-06T16:54:51.759Z"}
+{"level":"info","message":"","timestamp":"2014-03-06T16:55:02.657Z"}
+{"level":"error","message":"Connection error: Error: failed to connect to [109.251.151.22:27017]","timestamp":"2014-03-06T16:55:24.329Z"}
+{"level":"error","message":"Connection error: Error: failed to connect to [109.251.151.22:27017]","timestamp":"2014-03-06T16:57:49.666Z"}
+{"level":"error","message":"Connection error: Error: failed to connect to [109.251.151.22:27017]","timestamp":"2014-03-06T16:57:51.155Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T16:58:25.472Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T16:58:25.510Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T16:58:45.124Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T16:58:45.129Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T16:58:55.466Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T16:58:55.471Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T16:58:55.494Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:03:30.192Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:03:30.199Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:03:30.218Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:04:18.049Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:04:18.072Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:04:18.092Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:04:18.102Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:04:33.171Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:04:33.180Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:04:33.199Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:04:33.206Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:04:47.471Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:04:47.478Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:04:47.503Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:04:47.516Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:05:14.798Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:05:14.803Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:05:14.820Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:05:14.827Z"}
+{"level":"info","message":"product _id: 5318aacad3ea9134018fd6f5","timestamp":"2014-03-06T17:05:14.830Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:05:29.061Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:05:29.065Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:05:29.085Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:05:29.093Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `name` is required.","timestamp":"2014-03-06T17:05:29.096Z"}
+{"level":"info","message":"product _id: 5318aad9fb89035400936ac0","timestamp":"2014-03-06T17:05:29.095Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:05:49.992Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:05:49.999Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:05:50.030Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:05:50.042Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:05:50.046Z"}
+{"level":"info","message":"product _id: 5318aaeecfa2308c06d2618b","timestamp":"2014-03-06T17:05:50.044Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:06:29.126Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:06:29.131Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:06:29.151Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:06:29.164Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:06:29.169Z"}
+{"level":"info","message":"product _id: 5318ab1563d915181d0f35a1","timestamp":"2014-03-06T17:06:29.167Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:07:03.775Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:07:03.808Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:07:03.872Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:07:03.901Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:07:03.905Z"}
+{"level":"info","message":"product _id: 5318ab37298de78c12e8162b","timestamp":"2014-03-06T17:07:03.903Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:07:03.904Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:07:03.904Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:07:14.992Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:07:15.018Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:07:15.059Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:07:15.087Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:07:23.989Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:07:24.021Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:07:24.077Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:07:24.133Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:07:24.136Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:08:03.571Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:08:03.620Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:08:03.690Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:08:03.742Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:08:03.744Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:08:15.853Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:08:15.906Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:08:15.967Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:08:16.032Z"}
+{"level":"info","message":"product _id: 5318ab7f1dc05d8819b87f50","timestamp":"2014-03-06T17:08:16.036Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:08:16.036Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:08:16.036Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:08:16.039Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:08:22.801Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:08:22.825Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:08:22.871Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:08:22.905Z"}
+{"level":"info","message":"product _id: 5318ab86c6e055dc1537cdf8","timestamp":"2014-03-06T17:08:22.908Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:08:22.908Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:08:22.908Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:08:22.909Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:08:45.353Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:08:45.391Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:08:45.464Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:08:45.494Z"}
+{"level":"info","message":"product _id: 5318ab9da43916a8085f73c9","timestamp":"2014-03-06T17:08:45.497Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:08:45.497Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:08:45.497Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:08:45.498Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:09:03.964Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:09:03.981Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:09:04.020Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:09:04.033Z"}
+{"level":"info","message":"product _id: 5318abaf2111229c014798f7","timestamp":"2014-03-06T17:09:04.037Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:09:04.037Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:09:04.037Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:09:04.038Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:12:11.397Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:12:11.428Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:12:11.480Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:12:11.505Z"}
+{"level":"info","message":"product _id: 5318ac6b6e1c44c41f80dbff","timestamp":"2014-03-06T17:12:11.507Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:12:11.507Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:12:11.507Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:12:11.509Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:12:14.304Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:12:14.344Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:12:14.416Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:12:14.470Z"}
+{"level":"info","message":"product _id: 5318ac6edbf7b4d4110b1b28","timestamp":"2014-03-06T17:12:14.473Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:12:14.473Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:12:14.473Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:12:14.475Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:14:06.499Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:14:06.533Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:14:06.577Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:14:06.602Z"}
+{"level":"info","message":"product _id: 5318acde8fda035419e1d59d","timestamp":"2014-03-06T17:14:06.604Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:14:06.605Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:14:06.605Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:14:06.606Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:14:13.961Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:14:13.974Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:14:14.003Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:14:14.022Z"}
+{"level":"info","message":"product _id: 5318ace54989b1241f4bc3fe","timestamp":"2014-03-06T17:14:14.025Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:14:14.026Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:14:14.026Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:14:38.109Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:14:38.128Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:14:38.179Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:14:38.204Z"}
+{"level":"info","message":"product _id: 5318acfe320335f81ada57bb","timestamp":"2014-03-06T17:14:38.207Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:14:38.207Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:14:38.207Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:14:38.208Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:15:45.407Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:15:45.450Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:15:45.509Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:15:45.543Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:15:45.546Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:16:06.283Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:16:06.327Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:16:06.344Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:16:06.347Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:16:06.371Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:16:17.589Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:16:17.615Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:16:17.629Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:17:27.755Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:17:27.766Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:17:27.778Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:18:16.753Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:18:16.760Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:18:16.771Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:06.718Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:06.722Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:20:06.732Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:09.562Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:09.577Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:20:09.589Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:13.002Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:13.011Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:20:13.023Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:27.599Z"}
+{"level":"error","message":"Connection error: ValidationError: Path `url` is required.","timestamp":"2014-03-06T17:20:27.620Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:27.609Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:47.183Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:47.190Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:20:53.970Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:20:54.005Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:21:42.866Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:21:42.888Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:21:42.930Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:21:42.960Z"}
+{"level":"info","message":"product _id: 5318aea63b7220741f97c238","timestamp":"2014-03-06T17:21:42.963Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:21:42.963Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:21:42.963Z"}
+{"level":"info","message":"Cannot save eventShema: ValidationError: Path `productId` is required.","timestamp":"2014-03-06T17:21:42.965Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:21:50.672Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:21:50.678Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:21:50.703Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:21:50.708Z"}
+{"level":"info","message":"product _id: 5318aeae2852ce341a69cf4c","timestamp":"2014-03-06T17:21:50.712Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:21:50.712Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:21:50.712Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:21:50.730Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:21:53.566Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:21:53.575Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:21:53.602Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:21:53.609Z"}
+{"level":"info","message":"product _id: 5318aeb1356582c4153a7c5a","timestamp":"2014-03-06T17:21:53.612Z"}
+{"level":"info","message":"product name: testProduct","timestamp":"2014-03-06T17:21:53.612Z"}
+{"level":"info","message":"product url: http://batros.in.ua","timestamp":"2014-03-06T17:21:53.612Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:21:53.627Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:21:58.205Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:21:58.256Z"}
+{"level":"info","message":"Product saved","timestamp":"2014-03-06T17:21:58.322Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:21:58.387Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:21:58.453Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:22:09.915Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:22:09.921Z"}
+{"level":"info","message":"product saved","timestamp":"2014-03-06T17:22:09.939Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:22:09.947Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:22:09.958Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-06T17:28:18.337Z"}
+{"level":"info","message":"All product was deleted","timestamp":"2014-03-06T17:28:18.344Z"}
+{"level":"info","message":"All EventShema was deleted","timestamp":"2014-03-06T17:28:18.371Z"}
+{"level":"info","message":"eventShema was saved","timestamp":"2014-03-06T17:28:18.380Z"}
+{"level":"info","message":"Web server listening: 58987","timestamp":"2014-03-07T11:07:01.351Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-07T11:07:01.432Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T11:32:27.816Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-07T11:32:28.039Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T12:08:58.581Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-07T12:08:58.624Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T14:14:22.844Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-07T14:14:22.888Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:11:27.690Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://109.251.151.22/materialise_dev","timestamp":"2014-03-07T15:11:27.738Z"}
+{"status":404,"url":"/sdfsdf","level":"warn","message":"","timestamp":"2014-03-07T15:38:51.748Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:38:51.752Z"}
+{"status":404,"url":"/sdfsdf","level":"warn","message":"","timestamp":"2014-03-07T15:38:53.905Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:38:53.910Z"}
+{"status":404,"url":"/sdfsdf","level":"warn","message":"","timestamp":"2014-03-07T15:38:54.270Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:38:54.273Z"}
+{"status":404,"url":"/50","level":"warn","message":"","timestamp":"2014-03-07T15:38:55.482Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:38:55.484Z"}
+{"status":404,"url":"/50","level":"warn","message":"","timestamp":"2014-03-07T15:45:33.863Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:45:33.866Z"}
+{"status":404,"url":"/50","level":"warn","message":"","timestamp":"2014-03-07T15:45:34.238Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:45:34.239Z"}
+{"status":404,"url":"/50","level":"warn","message":"","timestamp":"2014-03-07T15:45:34.585Z"}
+{"error":{"view":{"name":"error","root":"/vagrant/views","defaultEngine":"hbs","ext":".hbs"}},"level":"error","message":"","timestamp":"2014-03-07T15:45:34.588Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:52:09.374Z"}
+{"level":"error","message":"Connection error: Error: failed to connect to [192.168.127.100:27017]","timestamp":"2014-03-07T15:52:09.426Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:53:16.113Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://127.0.0.1/materialise_dev","timestamp":"2014-03-07T15:53:16.278Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:54:03.944Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://127.0.0.1/materialise_dev","timestamp":"2014-03-07T15:54:04.160Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:54:47.697Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://127.0.0.1/materialise_dev","timestamp":"2014-03-07T15:54:47.911Z"}
+{"level":"info","message":"Web server listening: 5001","timestamp":"2014-03-07T15:55:34.416Z"}
+{"level":"info","message":"Mongoose open connection: mongodb://127.0.0.1/materialise_dev","timestamp":"2014-03-07T15:55:34.649Z"}

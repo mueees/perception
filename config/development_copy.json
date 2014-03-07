@@ -4,9 +4,9 @@
     "db": {
         "ip": "109.251.151.22",
         "port": "27017",
-        "nameDatabase": "materialise_live"
+        "nameDatabase": "materialise_dev"
     },
 
-    "host": "materialise_live"
+    "host": "materialise_dev"
 
 }

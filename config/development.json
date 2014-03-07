@@ -1,8 +1,8 @@
 {
-    "port": 58987,
+    "port": 5001,
 
     "db": {
-        "ip": "109.251.151.22",
+        "ip": "127.0.0.1",
         "port": "27017",
         "nameDatabase": "materialise_dev"
     },
